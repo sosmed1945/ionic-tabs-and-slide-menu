@@ -13,6 +13,8 @@ $ npm install
 ```bash
 $ ionic serve -l
 ```
+## Example
+(https://media.giphy.com/media/m4soD3oDHoUaA/giphy.gif)
 
 ### 1453
 Jika tidak bisa sedekah dengan uang, maka bersedekahlah dengan ilmu pengetahuan
