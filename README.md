@@ -1,4 +1,4 @@
-# Ionic Tabs and Slide template example
+# Ionic Tabs and Side Menu template example
 ## Install
 - Clone this project:
 ```bash
