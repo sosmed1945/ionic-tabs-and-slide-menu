@@ -7,8 +7,14 @@
 
   <ion-content>
     <ion-list>
-      <button menuClose ion-item *ngFor="let p of pages" (click)="openPage(p)">
-        {{p.title}}
+      <button menuClose ion-item (click)="keMenu1()">
+        Home
+      </button>
+      <button menuClose ion-item  (click)="keMenu2()">
+        Feed
+      </button>
+      <button menuClose ion-item  (click)="keMenu3()">
+        Setting
       </button>
     </ion-list>
   </ion-content>
